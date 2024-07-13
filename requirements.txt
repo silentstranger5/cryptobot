@@ -1,0 +1,4 @@
+aiogram
+redis
+requests
+python-dotenv
